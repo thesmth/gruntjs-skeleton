@@ -6,4 +6,5 @@ env:
   - BROWSER=true
   - BROWSER=false
 install:
+  - npm install
   - npm install -g grunt
