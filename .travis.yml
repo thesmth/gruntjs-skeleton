@@ -7,4 +7,3 @@ env:
   - BROWSER=false
 install:
   - npm install
-  - npm install -g grunt
